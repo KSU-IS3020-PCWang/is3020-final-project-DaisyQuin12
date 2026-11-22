@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Daisy Quintanar
+- GitHub username: DaisyQuin12
+- Project title: appointment_scheduler
+- Application purpose: Keep track of appointments
 
 ## How to Run the Application
 
